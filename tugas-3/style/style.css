@@ -1,0 +1,31 @@
+body {
+  background-color: #e3e8ea;
+}
+
+.jumbotron img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+#media-sosial {
+  background-color: #bccad0;
+}
+
+.icon-media .linkedin {
+  font-size: 16px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  height: 40px;
+}
+
+.footer-content {
+  margin-top: 12px;
+  color: #fff;
+  text-align: center;
+}
